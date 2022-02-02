@@ -3,10 +3,10 @@
 - 🌱 I’m currently working on my skills of FrontEnd
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on :
-- INSTAGRAM: @moul.siri
+- INSTAGRAM: https://www.instagram.com/moul.siri/
 - GITHUB: @moulsiri
-- TWITTER: @moulsiri
-- MEDIUM: @moulsiri
+- TWITTER: https://twitter.com/moulsiri
+- MEDIUM: https://medium.com/@moulsiri
 - DRIBBBLE: https://dribbble.com/moulsiri/
 
 <!---
