@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @moulsiri
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python (Django)
+- 🌱 I’m currently working on my skills of FrontEnd
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on :
+- INSTAGRAM: @moul.siri
+- GITHUB: @moulsiri
+- TWITTER: @moulsiri
+- MEDIUM: @moulsiri
+- DRIBBBLE: https://dribbble.com/moulsiri/
 
 <!---
 moulsiri/moulsiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
