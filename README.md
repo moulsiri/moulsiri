@@ -6,7 +6,6 @@ I will develop it🙃
 - INSTAGRAM: https://www.instagram.com/moul.siri/
 - GITHUB: https://github.com/moulsiri
 - TWITTER: https://twitter.com/moulsiri
-- MEDIUM: https://medium.com/@moulsiri
 - DRIBBBLE: https://dribbble.com/moulsiri/
 
 <!---
