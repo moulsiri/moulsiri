@@ -1,35 +1,23 @@
-# 👋 नमस्ते, I’m Moulsiri Awasthi  
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-I am a **Full Stack Developer** passionate about creating user-friendly and scalable applications using modern technologies.  
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते, I’m Moulsiri! 
+*Frontend Sorceress (Developer / Programmer)*
+<br /> 
 
----
+<!--Start Intro-->               
+<p align="left">Results-driven full-stack developer with 2 years of experience in creating scalable web applications and deploying robust solutions. Proficient in modern frameworks and cloud services, with a proven track record of improving user experiences and delivering client satisfaction. </p>
 
-## 🛠️ Skill Set  
-
-- **Frontend:** ReactJS, Next.js, HTML5, CSS3, SCSS  
-- **Backend:** Django REST Framework, Node.js, Flask, REST API, JWT Authentication  
-- **Database:** MongoDB, MySQL  
-- **DevOps & Cloud:** AWS (EC2, S3), CI/CD Pipelines  
-- **Languages:** JavaScript, TypeScript, Python  
-
----
-
-## 🚀 Projects  
-
-### [SHHOP E-commerce MERN App](https://shhop-react-app-8qi3-jsdbp25k6-moulsiri.vercel.app/)  
-A CMS-style e-commerce platform with product management and Razorpay integration.  
-
-### [Save Endangered MERN App](https://save-endangered-evvmgr93k-moulsiri.vercel.app/)  
-A blogging and networking platform for wildlife conservation with a WYSIWYG editor.  
-
----
-
-## 📫 Connect with Me  
-
-- **GitHub:** [moulsiri](https://github.com/moulsiri)  
-- **LinkedIn:** [Moulsiri Awasthi](https://www.linkedin.com/in/moulsiri-awasthi-8395261a6/)  
-- **Twitter:** [moulsiri](https://twitter.com/moulsiri)  
-
+- ✨ Student of life :)
+- 👀 Passionate about building solutions that solve real-world problems with seamless user experiences.
+- 🌱 Currently developing full-stack applications using ReactJS, Next.js, and Flask, with expertise in AWS deployment and CI/CD pipelines.
+- 🎨 A creative thinker who loves blending technical skills with design to create impactful web applications.
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio](www.linkedin.com/in/moulsiri-awasthi-8395261a6) for more details about me.
+<!--End Intro-->
 
 <!---
 moulsiri/moulsiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
