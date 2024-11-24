@@ -24,25 +24,11 @@ A blogging and networking platform for wildlife conservation with a WYSIWYG edit
 
 ---
 
-## 💼 Experience  
-
-- **Associate Full Stack Developer** | FXIS.AI *(Jul 2023 – Present)*  
-  Developed and deployed 6+ applications using ReactJS, Django, and AWS.  
-
-- **Freelance Full Stack Developer** | Capital Numbers *(May 2024 – Present)*  
-  Built an LLM-based application with ReactJS and Flask, optimizing API responses.  
-
----
-
 ## 📫 Connect with Me  
 
 - **GitHub:** [moulsiri](https://github.com/moulsiri)  
 - **LinkedIn:** [Moulsiri Awasthi](https://www.linkedin.com/in/moulsiri-awasthi-8395261a6/)  
 - **Twitter:** [moulsiri](https://twitter.com/moulsiri)  
-
----
-
-"Tell me a feature that fascinates you, and I'll develop it! 🙃"  
 
 
 <!---
