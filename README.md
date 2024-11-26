@@ -16,7 +16,7 @@
 - 🌱 Currently developing full-stack applications using ReactJS, Next.js, and Flask, with expertise in AWS deployment and CI/CD pipelines.
 - 🎨 A creative thinker who loves blending technical skills with design to create impactful web applications.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](www.linkedin.com/in/moulsiri-awasthi-8395261a6) for more details about me.
+- 💻 Visit my [Portfolio](https://me-portfolio-six.vercel.app/) for more details about me.
 <!--End Intro-->
 
 <!---
