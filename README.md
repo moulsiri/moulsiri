@@ -9,7 +9,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Results-driven full-stack developer with 2 years of experience in creating scalable web applications and deploying robust solutions. Proficient in modern frameworks and cloud services, with a proven track record of improving user experiences and delivering client satisfaction. </p>
+<p align="left">Results-driven full-stack developer expert in creating scalable web applications and deploying robust solutions. Proficient in modern frameworks and cloud services, with a proven track record of improving user experiences and delivering client satisfaction. </p>
 
 - ✨ Student of life :)
 - 👀 Passionate about building solutions that solve real-world problems with seamless user experiences.
